@@ -63,7 +63,7 @@ Conducted quantitative regression analysis to define optimal product price range
 - Oracle OCI AI Foundations Associate: Demonstrating expertise in deploying and managing AI solutions on OCI.
 - Udemy and CognitiveCLasses Certification: Python for Data Science, Machine Learning with Python, Deep Learning Fundamentals
 
-### 
+### Future Impact Vision
 - With a strong foundation in Python, SQL, PowerBi and Tableau, I excel in data manipulation, model optimization, and data visualization.
 - My goal is to continue leveraging my skills to drive data-driven solutions and innovations that make a significant impact in the tech industry.
 
