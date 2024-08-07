@@ -4,7 +4,7 @@
 
 ## Education						       		
 - M.Tech., Quality, Reliability & Operations Research	| Indian Statistical Institute (_2021 - 2023_)	 			        		
-- B.E., Electrical Engineering | Jadavpur University (_May 2017_)
+- B.E., Electrical Engineering | Jadavpur University (_May 2018_)
 
 ## Work Experience
 **Senior Associate @ PwC (_April 2024 - Present_)**
