@@ -56,13 +56,14 @@ Deployed a bidirectional LSTM model in AWS SageMaker for the text classification
 ### Quantative Regression on Product Prices
 Conducted quantitative regression analysis to define optimal product price ranges, mitigating potentially harmful "Too Good to Be True" offers.
 
-- With a strong foundation in Python, SQL, PowerBi and Tableau, I excel in data manipulation, model optimization, and data visualization.
-- My goal is to continue leveraging my skills to drive data-driven solutions and innovations that make a significant impact in the tech industry.
-
 ## Certifications
 - Microsoft Certified Azure AZ-900 : Validated foundational knowledge of Microsoft Azure cloud services and basic cloud concepts.
 - Microsoft Certified Azure DP-900: Certification demonstrating proficiency in foundational data concepts and analytical skills.
 - Oracle OCI Developer Professional: Fundamental overview on containerization, kubernetes, docker commands, serverless concepts such as function, streaming, queues, events etc.
 - Oracle OCI AI Foundations Associate: Demonstrating expertise in deploying and managing AI solutions on OCI.
 - Udemy and CognitiveCLasses Certification: Python for Data Science, Machine Learning with Python, Deep Learning Fundamentals
+
+### 
+- With a strong foundation in Python, SQL, PowerBi and Tableau, I excel in data manipulation, model optimization, and data visualization.
+- My goal is to continue leveraging my skills to drive data-driven solutions and innovations that make a significant impact in the tech industry.
 
